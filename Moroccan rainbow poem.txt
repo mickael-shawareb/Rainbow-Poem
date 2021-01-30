@@ -1,4 +1,0 @@
-roses are red,
-violets are blue,
-if you fork me,
-I will fork you.
